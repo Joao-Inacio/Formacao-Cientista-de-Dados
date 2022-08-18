@@ -1,0 +1,1 @@
+@attribute class-att {0,1}
